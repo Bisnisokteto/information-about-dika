@@ -21,8 +21,8 @@
     </a>
 </p>
 
-## about me 
-*** I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cirebon. ***
+## about me
+I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cirebon. 
 
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/6288223674569">
@@ -48,14 +48,14 @@
 * [`klik disini`](https://github.com/Bisnisokteto/NEOBOT-MDV8)
 
 ## Request Fitur To
-[`Creator Here`](https://wa.me/6288223674569?text=Banh+req+fitur) 
+* [`Creator Here`](https://wa.me/6288223674569?text=Banh+req+fitur) 
 
 ## Akun game
-[`Punya owner`](https://bit.ly/3dtqnxR)
+* [`Punya owner`](https://bit.ly/3dtqnxR)
 
 ## Open jasa murid bot
 Minat? Lanjut chat lewat wa
-[`Press here`](https://wa.me/6288223674569?text=Murid+bot+bg)
+* [`Press here`](https://wa.me/6288223674569?text=Murid+bot+bg)
 
 ### Mau bisa ngebot?
 1. Siapkan niat
