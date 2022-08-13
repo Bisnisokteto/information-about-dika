@@ -49,6 +49,10 @@
 ## Akun game
 [`Punya owner`](https://bit.ly/3dtqnxR)
 
+## Open jasa murid bot
+Minat? Lanjut chat lewat wa
+[`Press here`](https://wa.me/6288223674569?text=Murid+bot+bg)
+
 ### Mau bisa ngebot?
 1. Siapkan niat
 2. Siapkan hp minimal 2
