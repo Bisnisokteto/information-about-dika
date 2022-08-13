@@ -87,7 +87,7 @@ Minat? Lanjut chat lewat wa
 # Creator Bot
  [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![DIKA](https://github.com/GempyTon.png?size=200)](https://github.com/bisnisokteto) 
 ----|----
-[Ilman](https://github.com/ilmanhdyt) | [GEMPY](https://github.com/bisnisokteto)
+[Ilman](https://github.com/ilmanhdyt) | [DIKA](https://github.com/bisnisokteto)
  Author | Creator
  
 ### SAN Statistics
