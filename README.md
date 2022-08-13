@@ -7,8 +7,6 @@
     </a>
 
 # all information
-* [`Don't spam call & chat`](https://github.com/bisnisokteto)
-
 ## Official Bot WhatsApp
 
 <p align="center">
@@ -17,7 +15,7 @@
 <p align="center">
     <a href="https://Bisnisokteto.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Fannx+By+Dika+Official+🙏"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=FannxBOT+By+Dika+Official+🙏"
             alt="Subscribe Yt Lexxy Official"
         />
     </a>
@@ -69,10 +67,11 @@ I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cir
 ## please subscribe my YouTube
 * [`Youtube`](https://youtube.com/channel/UC3HcOB2U-fgsR8onRGXFM3w)
 
-## Request Fitur To
+## Author/ owner
 * [`Creator Here`](https://wa.me/6288223674569?text=Banh+req+fitur) 
+* [`Don't spam chat & call`(https://wa.me/6288223674569)
 
-## Akun game
+## Informasi akun pribadi owner
 * [`Punya owner`](https://bit.ly/3dtqnxR)
 
 ## Open jasa murid bot
