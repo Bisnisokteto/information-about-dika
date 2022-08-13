@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://Bisnisokteto.github.io">
-        <io
+        <img
             src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Assalamualaikum+🙏"
             alt="Subscribe Yt Lexxy Official"
         />
