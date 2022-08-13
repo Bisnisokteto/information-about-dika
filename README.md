@@ -44,6 +44,9 @@ I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cir
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288223674569) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv)
 
+## New update sc terbaru no enc
+* [`klik disini`](https://github.com/Bisnisokteto/NEOBOT-MDV8)
+
 ## Request Fitur To
 [`Creator Here`](https://wa.me/6288223674569?text=Banh+req+fitur) 
 
