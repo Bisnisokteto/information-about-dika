@@ -65,6 +65,16 @@ Minat? Lanjut chat lewat wa
 9. Pilih perangkat tertaut
 10. Lalu scan
 
+## Alat
+
+Download aplikasi termux disini :
+
+[DOWNLOAD Termux](https://play.google.com/store/apps/details?id=com.termux) 
+
+Download aplikasi WhatsApp Bisnis disini :
+
+[DOWNLOAD Whatsapp Bisnis](https://play.google.com/store/apps/details?id=com.whatsapp.w4b) 
+
 ### FOR TERMUX USER
 1. Type mentioned below given commands one by one in Termux.
 ```sh
