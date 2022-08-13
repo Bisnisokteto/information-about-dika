@@ -85,16 +85,39 @@ $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
 $ git clone [link repo]
 $ cd nama file
-$ npm i 
-
-### RECOMMENDED INSTALL ON TERMUX
-
-```bash
-pkg install yarn
-yarn
-```
+$ npm i
 
 ### Installing
 ```bash
 $ node .
 ```
+
+### 📮 S&K
+1. Jangan diperjual belikan Sc yang saya berikan
+2. Sebelum pakai jangan lupa kasih star
+3. Follow Github !
+4. Jangan salah gunakan script ini!
+
+---------
+
+
+## ```Thanks to ✨```
+* [`Allah SWT`](https://github.com/Jikarinka)
+* [`My parents`](https://github.com/Jikarinka)
+* [`All Friends`](https://github.com/Jikarinka)
+* [`All Contributors`](https://github.com/Jikarinka)
+* [`All Creator Bot`](https://github.com/Jikarinka)
+* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
+* [`Nurutomo`](https://github.com/nurutomi)
+* [`BochilGaming`](https://github.com/bochilgaming)
+* [`KannaChan`](http://github.com/kannachann)
+* [`DikaOfc`](http://github.com/bisnisokteto)
+
+## ```Recode By 🐾```
+[![kannachann](https://github.com/Jikarinka.png?size=100)](http://github.com/bisnisokteto)
+
+# ```Contributor 🔭```
+* [`The.Sad.Boy01`](https://github.com/Kangsad01)
+* [`AmirulDev20`](https://github.com/amiruldev20)
+* [`Rasel Comel`](https://github.com/raselcomel)
+* [`Rominaru`](https://github.com/rominaru)
