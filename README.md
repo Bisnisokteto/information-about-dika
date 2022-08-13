@@ -14,6 +14,7 @@
         />
     </a
 
+
 # all information
 ## Official Bot WhatsApp
 
@@ -94,6 +95,8 @@ $ pkg install imagemagick -y
 $ git clone [link repo]
 $ cd nama file
 $ npm i
+
+
 
 ### 📮 S&K
 1. Jangan diperjual belikan Sc yang saya berikan
