@@ -6,6 +6,14 @@
         />
     </a>
 
+<p align="center">
+    <a href="https://Bisnisokteto.github.io">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Selamat+datang+di+informasi+all+DikaOfc"
+            alt="Subscribe Yt Lexxy Official"
+        />
+    </a
+
 # all information
 ## Official Bot WhatsApp
 
@@ -86,11 +94,6 @@ $ pkg install imagemagick -y
 $ git clone [link repo]
 $ cd nama file
 $ npm i
-
-### Installing
-```bash
-$ node .
-```
 
 ### 📮 S&K
 1. Jangan diperjual belikan Sc yang saya berikan
