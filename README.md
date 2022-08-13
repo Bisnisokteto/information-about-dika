@@ -72,3 +72,15 @@ $ pkg install imagemagick -y
 $ git clone [link repo]
 $ cd nama file
 $ npm i 
+
+## RECOMMENDED INSTALL ON TERMUX
+
+```bash
+pkg install yarn
+yarn
+```
+
+## Installing
+```bash
+$ node .
+```
