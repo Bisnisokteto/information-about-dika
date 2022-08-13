@@ -1,3 +1,11 @@
+<p align="center">
+    <a href="https://Bisnisokteto.github.io">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Fannx+By+Dika+Official+🙏"
+            alt="Subscribe Yt Lexxy Official"
+        />
+    </a>
+
 # all information
 ## Official Bot WhatsApp
 
@@ -37,7 +45,7 @@
 [`Creator Here`](https://wa.me/6288223674569?text=Banh+req+fitur) 
 
 ## Akun game
-[`Creator here`](https://bit.ly/3dtqnxR)
+[`Punya owner`](https://bit.ly/3dtqnxR)
 
 ### Mau bisa ngebot?
 1. Siapkan niat
