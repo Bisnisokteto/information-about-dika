@@ -36,3 +36,14 @@
 ## Request Fitur To
 [`Creator Here`](https://wa.me/6288223674569?text=Banh+req+fitur) 
 
+### Mau bisa ngebot?
+1. Siapkan niat
+2. Siapkan hp minimal 2
+3. Siapkan script Bot
+4. Lalu edit owner dll di config.js
+5. Lalu masuk ke termux
+6. Ikutin command, command? di bawah
+7. Nongol qr
+8. Pencet titik tiga yang di kanan atas 
+9. Pilih perangkat tertaut
+10. Lalu scan
