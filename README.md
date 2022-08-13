@@ -1,13 +1,13 @@
 <p align="center">
     <a href="https://Bisnisokteto.github.io">
-        <i
+        <io
             src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Assalamualaikum+🙏"
             alt="Subscribe Yt Lexxy Official"
         />
     </a>
 
 # all information
-* [`Don't spam call & chat`](https://github.com/bisnisokteto?
+* [`Don't spam call & chat`](https://github.com/bisnisokteto)
 
 ## Official Bot WhatsApp
 
