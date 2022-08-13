@@ -47,3 +47,15 @@
 8. Pencet titik tiga yang di kanan atas 
 9. Pilih perangkat tertaut
 10. Lalu scan
+
+### FOR TERMUX USER
+1. Type mentioned below given commands one by one in Termux.
+```sh
+$ pkg upgrade && pkg update
+$ pkg install git -y
+$ pkg install nodejs -y
+$ pkg install ffmpeg -y
+$ pkg install imagemagick -y
+$ git clone [link repo]
+$ cd nama file
+$ npm i 
