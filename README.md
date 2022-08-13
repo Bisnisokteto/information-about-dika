@@ -7,6 +7,16 @@
     </a>
 
 # all information
+- 🔭 I’m currently working on **Buckoid Android App**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **nainnadika6@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
 ## Official Bot WhatsApp
 
 <p align="center">
