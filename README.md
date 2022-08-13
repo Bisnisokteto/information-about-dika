@@ -114,7 +114,7 @@ Tunggu next update dri saya😺
 <p align="center">
     <a href="https://Bisnisokteto.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=waalaikumsalam wr.wb+🙏"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=waalaikumsalam+wr.wb+🙏"
             alt="Subscribe Yt Lexxy Official"
         />
     </a>
