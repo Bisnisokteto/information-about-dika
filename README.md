@@ -71,7 +71,7 @@ I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cir
 
 ## Author/ owner
 * [`Creator Here`](https://wa.me/6288223674569?text=Banh+req+fitur) 
-* [`Don't spam chat & call`(https://wa.me/6288223674569)
+* [`Don't spam chat & call`](https://wa.me/6288223674569)
 
 ## Informasi akun pribadi owner
 * [`Punya owner`](https://bit.ly/3dtqnxR)
