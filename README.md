@@ -76,6 +76,25 @@ Minat? Lanjut chat lewat wa
 
 ---------
 
+# Heroku Buildpack
+
+| BuildPack | LINK |
+|--------|--------|
+| **FFMPEG** |[HERE](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **IMAGEMAGICK** | [HERE](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
+| **Node.js**     | heroku/nodejs|
+
+# Creator Bot
+ [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![DIKA](https://github.com/GempyTon.png?size=200)](https://github.com/bisnisokteto) 
+----|----
+[Ilman](https://github.com/ilmanhdyt) | [GEMPY](https://github.com/bisnisokteto)
+ Author | Creator
+ 
+### SAN Statistics
+
+[![GempyTon GitHub Stats](https://github-readme-stats.vercel.app/api?username=GempyTon&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![GempyTon Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GempyTon&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+
 ### Mau bisa ngebot?
 1. Siapkan niat
 2. Siapkan hp minimal 2
