@@ -1,19 +1,10 @@
 <p align="center">
     <a href="https://Bisnisokteto.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Assalamualaikum🙏"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Assalamualaikum,+welcome+to+my+information"
             alt="Subscribe Yt Lexxy Official"
         />
     </a>
-
-<p align="center">
-    <a href="https://Bisnisokteto.github.io">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Selamat+datang+di+informasi+all+DikaOfc"
-            alt="Subscribe Yt Lexxy Official"
-        />
-    </a
-
 
 # all information
 ## Official Bot WhatsApp
@@ -68,8 +59,8 @@ Minat? Lanjut chat lewat wa
 3. Siapkan script Bot
 4. Lalu edit owner dll di config.js
 5. Lalu masuk ke termux
-6. Ikutin command, command? di bawah
-7. Nongol qr
+6. Ikutin command,
+7. Qr nongol
 8. Pencet titik tiga yang di kanan atas 
 9. Pilih perangkat tertaut
 10. Lalu scan
@@ -83,19 +74,6 @@ Download aplikasi termux disini :
 Download aplikasi WhatsApp Bisnis disini :
 
 [DOWNLOAD Whatsapp Bisnis](https://play.google.com/store/apps/details?id=com.whatsapp.w4b) 
-
-### FOR TERMUX USER
-1. Type mentioned below given commands one by one in Termux.
-```sh
-$ pkg upgrade && pkg update
-$ pkg install git -y
-$ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
-$ git clone [link repo]
-$ cd nama file
-$ npm i
-
 
 
 ### 📮 S&K
