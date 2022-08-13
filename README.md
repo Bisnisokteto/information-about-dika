@@ -64,6 +64,9 @@ I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cir
 * [`klik disini`](https://github.com/Bisnisokteto/NEOBOT-MDV8)
 * [`Fitur here`](https://bit.ly/3AjSfxb)
 
+## please subscribe my YouTube
+* [`Youtube`](https://youtube.com/channel/UC3HcOB2U-fgsR8onRGXFM3w)
+
 ## Request Fitur To
 * [`Creator Here`](https://wa.me/6288223674569?text=Banh+req+fitur) 
 
