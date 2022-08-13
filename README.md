@@ -36,6 +36,9 @@
 ## Request Fitur To
 [`Creator Here`](https://wa.me/6288223674569?text=Banh+req+fitur) 
 
+## Akun game
+[`Creator here`](https://bit.ly/3dtqnxR)
+
 ### Mau bisa ngebot?
 1. Siapkan niat
 2. Siapkan hp minimal 2
