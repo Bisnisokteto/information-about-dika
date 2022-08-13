@@ -21,7 +21,8 @@
     </a>
 </p>
 
-## I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cirebon.
+## about me 
+I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cirebon.
 
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/6288223674569">
@@ -75,6 +76,7 @@ Download aplikasi WhatsApp Bisnis disini :
 
 [DOWNLOAD Whatsapp Bisnis](https://play.google.com/store/apps/details?id=com.whatsapp.w4b) 
 
+---------
 
 ### 📮 S&K
 1. Jangan diperjual belikan Sc yang saya berikan
