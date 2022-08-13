@@ -62,6 +62,7 @@ I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cir
 
 ## New update sc terbaru no enc
 * [`klik disini`](https://github.com/Bisnisokteto/NEOBOT-MDV8)
+* [`klik disini`][setting](Database)
 
 ## Request Fitur To
 * [`Creator Here`](https://wa.me/6288223674569?text=Banh+req+fitur) 
@@ -111,11 +112,11 @@ Download aplikasi WhatsApp Bisnis disini :
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/Jikarinka)
-* [`My parents`](https://github.com/Jikarinka)
-* [`All Friends`](https://github.com/Jikarinka)
-* [`All Contributors`](https://github.com/Jikarinka)
-* [`All Creator Bot`](https://github.com/Jikarinka)
+* [`Allah SWT`](https://github.com/bisnisokteto)
+* [`My parents`](https://github.com/bisnisokteto)
+* [`All Friends`](https://github.com/bisnisokteto)
+* [`All Contributors`](https://github.com/bisnisokteto)
+* [`All Creator Bot`](https://github.com/bisnisokteto)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
