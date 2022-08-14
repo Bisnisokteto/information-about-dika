@@ -90,6 +90,10 @@ I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cir
 Minat? Lanjut chat lewat wa
 * [`Press here`](https://wa.me/6288223674569?text=Murid+bot+bg)
 
+## **Hobby**
+* [`Hobby ngecoding`](https://wa.me/6288223674569)
+* [`Turu>///<`](https://wa.me/6288223674569)
+* [`Swimming`](https://wa.me/6288223674569)
 ---------
 
 # Heroku Buildpack
