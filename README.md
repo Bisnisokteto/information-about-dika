@@ -69,17 +69,16 @@ I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cir
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv)
 
 ---------
+### ```Others```
 
-## ```Others```
-
-## New update sc terbaru no enc
-* [`klik disini`](https://github.com/Bisnisokteto/NEOBOT-MDV8)
+## New update c terbaru no enc
+* [`klik disini](https://github.com/Bisnisokteto/NEOBOT-MDV8)
 * [`Fitur here`](https://bit.ly/3AjSfxb)
 
-## please subscribe my YouTube
+## sosial media owner
 * [`Youtube`](https://youtube.com/channel/UC3HcOB2U-fgsR8onRGXFM3w)
-* [`Creator Here`](https://wa.me/6288223674569?text=Banh+req+fitur) 
-* [`Don't spam chat & call`](https://wa.me/6288223674569)
+* [`WhatsApp`](https://wa.me/6288223674569) 
+* [`Instagram`](https://instagram/Cigegerotak)
 * [`Data pribadi`](https://bit.ly/3dtqnxR)
 
 ## Open jasa murid bot
