@@ -74,12 +74,9 @@ I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cir
 ## New update c terbaru no enc
 * [`klik disini](https://github.com/Bisnisokteto/NEOBOT-MDV8)
 * [`Fitur here`](https://bit.ly/3AjSfxb)
-
-### Preview bot
-
 - [x] Welcome <details><summary>Screenshot</summary><img src="https://telegra.ph/file/1ac272de507c3a8f4bdb1.jpg"></details>
 - [x] Reply bot <details><summary>Screenshot</summary><img src="https://telegra.ph/file/98c48528bd962f279ea7e.jpg"></details>
-- [x] Menu  <details><summary>Screenshot</summary><img src="https://telegra.ph/file/dc3565c53a09154ef745e.jpg"></details>
+- [x] Menu  <details><summary>Screenshot</summary><img src="https://telegra.ph/file/eaceea0b03b57f63318fa.jpg"></details>
 ------------------
 
 ## sosial media owner
