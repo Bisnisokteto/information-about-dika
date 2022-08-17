@@ -71,7 +71,7 @@ I am Dika, I am 15 years old, I come from Indonesia, precisely in West Java, Cir
 ---------
 ### ```Others```
 
-## New update c terbaru no enc
+## New update sc terbaru no enc
 * [`klik disini`](https://github.com/Bisnisokteto/NEOBOT-MDV8)
 * [`Fitur here`](https://bit.ly/3AjSfxb)
 - [x] Welcome <details><summary>Screenshot</summary><img src="https://telegra.ph/file/1ac272de507c3a8f4bdb1.jpg"></details>
